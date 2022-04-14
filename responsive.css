@@ -21,4 +21,22 @@
     {
         display: none;
     }
+    #menu
+    {
+        display: none
+    }
+    .menu-bar
+    {
+        display: block;
+        
+    }
+    .menu-bar p
+    {
+        display: block;
+        color: black
+    }
+    #fa-xmark
+    {
+        display: none
+    }
 }
