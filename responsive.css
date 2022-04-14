@@ -39,4 +39,8 @@
     {
         display: none
     }
+    .content
+    {
+        display: block
+    }
 }
