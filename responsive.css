@@ -1,0 +1,24 @@
+@media(max-width:900px)
+{
+    .li
+    {
+        display: none;
+    }
+    .resp-p
+    {
+        display: block;
+        color: black;
+    }
+    .fa-bars
+    {
+        display: block;
+    }
+    .banking p
+    {
+        display: none;
+    }
+    .section
+    {
+        display: none;
+    }
+}
